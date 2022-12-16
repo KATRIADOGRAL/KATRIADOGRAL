@@ -7,7 +7,7 @@
 # :star2: hobbies
 *gosto muito trabalhar com o publico, amo fazer a unha, amo meus dates.
 # :star:experiencia e minha profissão 
-*eu ja trabalhei como açougueira, atendimeto em mercados, lojas e lanchonetes
+*eu ja trabalhei como açougueira, atendimeto em mercados, lojas e lanchonetes.
 quero fazer faculdade de direito.
 # :telephone_receiver: contatos
 * @katriapds
