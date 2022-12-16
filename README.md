@@ -1,6 +1,6 @@
 # :smiley: sobre mim
 *ola sou katria tenho 16 anos, e adoro comer kkk
-# :sparkles: competencias e abilidades
+# :sparkles: competencias e habilidades
 *sou boa arruma cabelo e faze piada.
 # :nail_care:	o que estou aprendendo 
 *linguagem e programação.
