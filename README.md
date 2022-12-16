@@ -4,7 +4,7 @@
 *sou boa arruma cabelo e faze piada.
 # :nail_care:	o que estou aprendendo 
 *linguagem e programação.
-#:star2: hobbies
+# :star2: hobbies
 *gosto muito trabalhar com o publico, amo fazer a unha, amo meus dates.
 # :star:experiencia e minha profissão 
 *eu ja trabalhei como açogueira, atendimeto em mercados, lojas e lanchonetes
