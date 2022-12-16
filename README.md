@@ -1,13 +1,13 @@
 # :smiley: sobre mim
 *ola sou katria tenho 16 anos, e adoro comer kkk
 # :sparkles: competencias e habilidades
-*sou boa arruma cabelo e faze piada.
+*sou boa arrumar cabelo e fazer piada.
 # :nail_care:	o que estou aprendendo 
 *linguagem e programação.
 # :star2: hobbies
 *gosto muito trabalhar com o publico, amo fazer a unha, amo meus dates.
 # :star:experiencia e minha profissão 
-*eu ja trabalhei como açogueira, atendimeto em mercados, lojas e lanchonetes
+*eu ja trabalhei como açougueira, atendimeto em mercados, lojas e lanchonetes
 quero fazer faculdade de direito.
 # :telephone_receiver: contatos
 * @katriapds
